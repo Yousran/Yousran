@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Yusran Mazidan</h1>
+<p align="center">
   <b><i align="center">"--Curiosity & Perseverance Is The Key--"</i></b>
+</p>
 
 <h3>Little facts about me 👤</h3>
 
